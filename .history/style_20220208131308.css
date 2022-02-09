@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+.container {
+
+    background: url("/assets/wwbackground.jpg") no-repeat center;
+    margin: 0;
+}
